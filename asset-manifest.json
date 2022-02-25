@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Todo-Voice-App/static/css/main.e12562a3.css",
+    "main.js": "/Todo-Voice-App/static/js/main.6c0e5860.js",
+    "static/media/logo.svg": "/Todo-Voice-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Todo-Voice-App/index.html",
+    "main.e12562a3.css.map": "/Todo-Voice-App/static/css/main.e12562a3.css.map",
+    "main.6c0e5860.js.map": "/Todo-Voice-App/static/js/main.6c0e5860.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e12562a3.css",
+    "static/js/main.6c0e5860.js"
+  ]
+}
